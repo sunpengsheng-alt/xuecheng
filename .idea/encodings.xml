@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product_paran" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test_swagger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc_govern_center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc_model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc_service_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc_service_base_filesystem" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc_service_manage_cms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc_service_manage_cms_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc_service_mange__course" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc_service_search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc_test_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc_test_parent/test_fastfds" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc_test_parent/test_freemarker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc_test_parent/test_mongo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc_test_parent/test_rabbitmq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc_test_parent/test_rabbitmq_boot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xc_utils" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

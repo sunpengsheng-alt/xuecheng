@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri:  mongodb://sps:1234@localhost:27017/demo2

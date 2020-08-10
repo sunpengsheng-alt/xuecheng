@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="product_paran" />
+        <module name="test_fastfds" />
+        <module name="test_freemarker" />
+        <module name="test_mongo" />
+        <module name="test_rabbitmq" />
+        <module name="test_rabbitmq_boot" />
+        <module name="test_swagger" />
+        <module name="xc_common" />
+        <module name="xc_govern_center" />
+        <module name="xc_model" />
+        <module name="xc_service_api" />
+        <module name="xc_service_base_filesystem" />
+        <module name="xc_service_manage_cms" />
+        <module name="xc_service_manage_cms_client" />
+        <module name="xc_service_mange__course" />
+        <module name="xc_service_search" />
+        <module name="xc_utils" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="product_paran" options="-parameters" />
+      <module name="test_fastfds" options="-parameters" />
+      <module name="test_freemarker" options="-parameters" />
+      <module name="test_mongo" options="-parameters" />
+      <module name="test_rabbitmq" options="-parameters" />
+      <module name="test_rabbitmq_boot" options="-parameters" />
+      <module name="test_swagger" options="-parameters" />
+      <module name="xc_common" options="-parameters" />
+      <module name="xc_govern_center" options="-parameters" />
+      <module name="xc_model" options="-parameters" />
+      <module name="xc_parent" options="-parameters" />
+      <module name="xc_service_api" options="-parameters" />
+      <module name="xc_service_base_filesystem" options="-parameters" />
+      <module name="xc_service_manage_cms" options="-parameters" />
+      <module name="xc_service_manage_cms_client" options="-parameters" />
+      <module name="xc_service_mange__course" options="-parameters" />
+      <module name="xc_service_search" options="-parameters" />
+      <module name="xc_test_parent" options="-parameters" />
+      <module name="xc_utils" options="-parameters" />
+    </option>
+  </component>
+</project>

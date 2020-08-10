@@ -1,0 +1,9 @@
+server:
+  port: 8088 #服务端口
+spring:
+  data:
+    mongodb:
+      uri:  mongodb://sps:1234@localhost:27017/demo2
+  freemarker:
+    settings:
+      classic_compatible: true
